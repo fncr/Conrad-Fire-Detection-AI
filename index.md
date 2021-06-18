@@ -3,7 +3,7 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Conrad Wu | Saratoga High School | Electrical Engineering | Incoming Senior
+| Conrad Wu | Saratoga High School | Electrical(?) Engineering | Incoming Senior
 
 ![Headstone Image](https://cdn.discordapp.com/attachments/731991179599675602/855536300277891093/shimnzo.png)
   
