@@ -15,6 +15,8 @@ By the end of this project I want to be able to put the raspberry pi and a camer
 # Second Milestone
 I've been able to write some python programs that take images using the raspberry pi, send images to nanonets, get that image back with an inference with where the fire is in the image, then present an image to the user with a box drawn around where the model thinks the fire is. I started off with just taking 10 pictures and saving them to a directory, then had a different program parse through the directory and feed all of the images to nanonets.
 ![Working Model](https://lh5.googleusercontent.com/YndtX9mm7Z2gCPpmGnnn5Ced1T2f-rCcHEoLss_9mTI8EdraqtrYzcsTIL_J_p_krwyn7Jo32Tix7zVWPpEKQuXKuXDWFgWRHF6asyxhBpyg2tOkNjtM0ilNieRGVcIW2DXi8nVc)
+Now I have a program that combines the taking images and feeding to nanonets. It displays an inference, then takes a picture and gets a response from Nanonets, then right before displaying the image it kills the previous one, thus making a sort of pseudo-video
+
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
