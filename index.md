@@ -17,7 +17,7 @@ I've been able to write some python programs that take images using the raspberr
 ![Working Model](https://lh5.googleusercontent.com/YndtX9mm7Z2gCPpmGnnn5Ced1T2f-rCcHEoLss_9mTI8EdraqtrYzcsTIL_J_p_krwyn7Jo32Tix7zVWPpEKQuXKuXDWFgWRHF6asyxhBpyg2tOkNjtM0ilNieRGVcIW2DXi8nVc)\
 Now I have a program that combines the taking images and feeding to nanonets. It displays an inference, then takes a picture and gets a response from Nanonets, then right before displaying the image it kills the previous one, thus making a sort of pseudo-video\
 
-https://github.com/fncr/Raspi-Fire-Detection \
+https://github.com/fncr/Raspi-Fire-Detection
 
 My code can be found above
 
