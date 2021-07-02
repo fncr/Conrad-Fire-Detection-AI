@@ -16,7 +16,7 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 
 # Final Milestone
 The Raspberry PI now combines the two aformentioned scripts using OpenCV to create a live video stream with boxes drawn around a fire in each frame. I updated the model which now uses around 500 images as opposed to 50 prior. It tracks fire pretty well, though the framerate leaves something to be desired but there isn't much I can do as that's mostly limitations with computational power and data transfer.
-```
+```ruby
 import cv2, json, requests, os
 import time
 
