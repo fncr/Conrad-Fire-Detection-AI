@@ -9,7 +9,7 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 
 # Links and Resources
 (https://medium.com/nanonets/how-to-easily-detect-objects-with-deep-learning-on-raspberrypi-225f29635c74 "Basic Guide to Using NanoNets")
-(https://picamera.readthedocs.io/en/release-1.13/recipes1.html "Using and accessing the Raspberry Pi Camera")
+[Using and accessing the Raspberry Pi Camera](https://picamera.readthedocs.io/en/release-1.13/recipes1.html) 
 (https://www.makeuseof.com/tag/image-recognition-tensorflow-raspberry-pi/  "Getting Tensorflow on the Raspberry Pi")
 (https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588 "Using TensorFlow Lite on Raspberry Pi, Ended Up Being Outdated")
 
