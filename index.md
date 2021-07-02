@@ -6,7 +6,15 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 | Conrad Wu | Saratoga High School | Electrical(?) Engineering | Incoming Senior
 
 ![Headstone Image](https://cdn.discordapp.com/attachments/731991179599675602/855536300277891093/shimnzo.png)
-  
+
+# Links and Resources
+(https://medium.com/nanonets/how-to-easily-detect-objects-with-deep-learning-on-raspberrypi-225f29635c74 "Basic Guide to Using NanoNets")
+(https://picamera.readthedocs.io/en/release-1.13/recipes1.html "Using and accessing the Raspberry Pi Camera")
+(https://www.makeuseof.com/tag/image-recognition-tensorflow-raspberry-pi/  "Getting Tensorflow on the Raspberry Pi")
+(https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588 "Using TensorFlow Lite on Raspberry Pi, Ended Up Being Outdated")
+
+
+
 # Final Milestone
 The Raspberry PI now combines the two aformentioned scripts using OpenCV to create a live video stream with boxes drawn around a fire in each frame. I updated the model which now uses around 500 images as opposed to 50 prior. It tracks fire pretty well, though the framerate leaves something to be desired but there isn't much I can do as that's mostly limitations with computational power and data transfer. 
 
