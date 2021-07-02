@@ -5,13 +5,13 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 |:--:|:--:|:--:|:--:|
 | Conrad Wu | Saratoga High School | Electrical(?) Engineering | Incoming Senior
 
-![Headstone Image](https://cdn.discordapp.com/attachments/731991179599675602/855536300277891093/shimnzo.png)
+![Headstone Image](https://cdn.discordapp.com/attachments/633473790386634774/860604311176085529/unknown.png)
 
 # Links and Resources
 [Basic Guide to Using NanoNets](https://medium.com/nanonets/how-to-easily-detect-objects-with-deep-learning-on-raspberrypi-225f29635c74)
 [Using and accessing the Raspberry Pi Camera](https://picamera.readthedocs.io/en/release-1.13/recipes1.html) 
 [Getting Tensorflow on the Raspberry Pi](https://www.makeuseof.com/tag/image-recognition-tensorflow-raspberry-pi/)
-(https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588 "Using TensorFlow Lite on Raspberry Pi, Ended Up Being Outdated")
+[Using TensorFlow Lite on Raspberry Pi, Ended Up Being Outdated](https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588)
 
 
 
