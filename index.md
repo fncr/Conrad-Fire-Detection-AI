@@ -69,13 +69,13 @@ def main():
 main()
 ```
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+![Third Milestone](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo{:target="_blank" rel="noopener"}
 
 # Second Milestone
 I've been able to write some python programs that take images using the raspberry pi, send images to nanonets, get that image back with an inference with where the fire is in the image, then present an image to the user with a box drawn around where the model thinks the fire is. I started off with just taking 10 pictures and saving them to a directory, then had a different program parse through the directory and feed all of the images to nanonets.
 Now I have a program that combines the taking images and feeding to nanonets. It displays an inference, then takes a picture and gets a response from Nanonets, then right before displaying the image it kills the previous one, thus making a sort of pseudo-video
 
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=tQt0Xg7fepw "Second Milestone"){:target="_blank" rel="noopener"}
+![Second Milestone](https://www.youtube.com/watch?v=tQt0Xg7fepw){:target="_blank" rel="noopener"}
 
 ![Bad NanoNets](https://cdn.discordapp.com/attachments/633473790386634774/860604311176085529/unknown.png)
 
