@@ -69,17 +69,17 @@ def main():
 main()
 ```
 
-![Third Milestone](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo){:target="_blank" rel="noopener"}
+[Third Milestone](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo){:target="_blank" rel="noopener"}
 
 # Second Milestone
 I've been able to write some python programs that take images using the raspberry pi, send images to nanonets, get that image back with an inference with where the fire is in the image, then present an image to the user with a box drawn around where the model thinks the fire is. I started off with just taking 10 pictures and saving them to a directory, then had a different program parse through the directory and feed all of the images to nanonets.
 Now I have a program that combines the taking images and feeding to nanonets. It displays an inference, then takes a picture and gets a response from Nanonets, then right before displaying the image it kills the previous one, thus making a sort of pseudo-video
 
-![Second Milestone](https://www.youtube.com/watch?v=tQt0Xg7fepw){:target="_blank" rel="noopener"}
+[Second Milestone](https://www.youtube.com/watch?v=tQt0Xg7fepw){:target="_blank" rel="noopener"}
 
 ![Bad NanoNets](https://cdn.discordapp.com/attachments/633473790386634774/860604311176085529/unknown.png)
 
 # First Milestone
 I set up the raspberry pi and was able to run python scripts and tensor flow. I was also able to use NanoNets to develop a model that can detect fires. Initially I tried hosting the model and processing on the raspberry pi, but all of the guides I followed were outdated, and NanoNets' servers seem to have better processing power than the Raspberry Pi and has updated documentation
 
-[![First Milestone]()](https://www.youtube.com/watch?v=HELhTF0Dyzc "First Milestone"){:target="_blank" rel="noopener"}
+[First Milestone](https://www.youtube.com/watch?v=HELhTF0Dyzc "First Milestone"){:target="_blank" rel="noopener"}
