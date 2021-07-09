@@ -69,7 +69,7 @@ def main():
 main()
 ```
 
-![Third Milestone](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo{:target="_blank" rel="noopener"}
+![Third Milestone](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo){:target="_blank" rel="noopener"}
 
 # Second Milestone
 I've been able to write some python programs that take images using the raspberry pi, send images to nanonets, get that image back with an inference with where the fire is in the image, then present an image to the user with a box drawn around where the model thinks the fire is. I started off with just taking 10 pictures and saving them to a directory, then had a different program parse through the directory and feed all of the images to nanonets.
