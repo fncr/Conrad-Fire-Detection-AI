@@ -26,7 +26,7 @@ In trying to move away from NanoNets to try to avoid hitting its api call limit 
 # First Session
 Below milestones take place in the first session of Bluestamp. This session I focused mostly on the machine learning and raspberry pi centric parts of the project
 
-## Third Milestone
+## [Third Milestone](https://www.youtube.com/watch?v=KC2r7oby-mg){:target="_blank" rel="noopener"}
 The Raspberry PI now combines the two aformentioned scripts using OpenCV to create a live video stream with boxes drawn around a fire in each frame. I updated the model which now uses around 500 images as opposed to 50 prior. It tracks fire pretty well, though the framerate leaves something to be desired but there isn't much I can do as that's mostly limitations with computational power and data transfer.
 ```ruby
 import cv2, json, requests, os
@@ -81,17 +81,11 @@ def main():
 main()
 ```
 
-[Third Milestone](https://www.youtube.com/watch?v=KC2r7oby-mg){:target="_blank" rel="noopener"}
-
-## Second Milestone
+## [Second Milestone](https://www.youtube.com/watch?v=tQt0Xg7fepw){:target="_blank" rel="noopener"}
 I've been able to write some python programs that take images using the raspberry pi, send images to nanonets, get that image back with an inference with where the fire is in the image, then present an image to the user with a box drawn around where the model thinks the fire is. I started off with just taking 10 pictures and saving them to a directory, then had a different program parse through the directory and feed all of the images to nanonets.
 Now I have a program that combines the taking images and feeding to nanonets. It displays an inference, then takes a picture and gets a response from Nanonets, then right before displaying the image it kills the previous one, thus making a sort of pseudo-video
 
-[Second Milestone](https://www.youtube.com/watch?v=tQt0Xg7fepw){:target="_blank" rel="noopener"}
-
 ![Bad NanoNets](https://cdn.discordapp.com/attachments/633473790386634774/860604311176085529/unknown.png)
 
-## First Milestone
+## [First Milestone](https://www.youtube.com/watch?v=HELhTF0Dyzc "First Milestone"){:target="_blank" rel="noopener"}
 I set up the raspberry pi and was able to run python scripts and tensor flow. I was also able to use NanoNets to develop a model that can detect fires. Initially I tried hosting the model and processing on the raspberry pi, but all of the guides I followed were outdated, and NanoNets' servers seem to have better processing power than the Raspberry Pi and has updated documentation
-
-[First Milestone](https://www.youtube.com/watch?v=HELhTF0Dyzc "First Milestone"){:target="_blank" rel="noopener"}
