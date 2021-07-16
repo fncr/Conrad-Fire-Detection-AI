@@ -17,6 +17,9 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 # Second Session
 Below milestones take place in the second session of BlueStamp. This session revolved around applying the raspberry pi to a larger product that could be useful in detecting forest fires early.
 
+## Fifth Milestone
+Got text message functional. This includes getting and sending GPS data from the raspberry piand sending an image of the fire to the user. Also has some code to send one image per fire based on the location rather than every frame that the machine detects a fire in.
+
 ## Fourth Milestone
 In trying to move away from NanoNets to try to avoid hitting its api call limit and to hopefully get more images processed faster, I set up a personal server with Tensorflow to run object detection rather than NanoNets' servers that might be more powerful but will cut down on latency.
 
@@ -78,7 +81,7 @@ def main():
 main()
 ```
 
-[Third Milestone](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo){:target="_blank" rel="noopener"}
+[Third Milestone](https://www.youtube.com/watch?v=KC2r7oby-mg){:target="_blank" rel="noopener"}
 
 ## Second Milestone
 I've been able to write some python programs that take images using the raspberry pi, send images to nanonets, get that image back with an inference with where the fire is in the image, then present an image to the user with a box drawn around where the model thinks the fire is. I started off with just taking 10 pictures and saving them to a directory, then had a different program parse through the directory and feed all of the images to nanonets.
