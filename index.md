@@ -20,7 +20,7 @@ Below milestones take place in the second session of BlueStamp. This session rev
 ## Fifth Milestone
 Got text message functional. This includes getting and sending GPS data from the raspberry piand sending an image of the fire to the user. Also has some code to send one image per fire based on the location rather than every frame that the machine detects a fire in.
 
-## Fourth Milestone
+## [Fourth Milestone](https://www.youtube.com/watch?v=M1F8t6Ycy2U)
 In trying to move away from NanoNets to try to avoid hitting its api call limit and to hopefully get more images processed faster, I set up a personal server with Tensorflow to run object detection rather than NanoNets' servers that might be more powerful but will cut down on latency.
 
 # First Session
