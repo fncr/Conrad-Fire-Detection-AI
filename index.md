@@ -18,7 +18,7 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 Below milestones take place in the second session of BlueStamp. This session revolved around applying the raspberry pi to a larger product that could be useful in detecting forest fires early.
 
 ## Fifth Milestone
-Got text message functional. This includes getting and sending GPS data from the raspberry piand sending an image of the fire to the user. Also has some code to send one image per fire based on the location rather than every frame that the machine detects a fire in.
+Got text message functional. This includes getting and sending GPS data from the raspberry piand sending an image of the fire to the user. Also has some code to send one text per fire based on the location rather than every frame that the machine detects a fire in.
 
 ## [Fourth Milestone](https://www.youtube.com/watch?v=M1F8t6Ycy2U)
 In trying to move away from NanoNets to try to avoid hitting its api call limit and to hopefully get more images processed faster, I set up a personal server with Tensorflow to run object detection rather than NanoNets' servers that might be more powerful but will cut down on latency.
@@ -27,6 +27,7 @@ In trying to move away from NanoNets to try to avoid hitting its api call limit 
 Below milestones take place in the first session of Bluestamp. This session I focused mostly on the machine learning and raspberry pi centric parts of the project
 
 ## [Third Milestone](https://www.youtube.com/watch?v=KC2r7oby-mg)
+![working stream](https://github.com/fncr/Conrad-Fire-Detection-AI/blob/gh-pages/images/workingPrototypeDetect.png)
 The Raspberry PI now combines the two aformentioned scripts using OpenCV to create a live video stream with boxes drawn around a fire in each frame. I updated the model which now uses around 500 images as opposed to 50 prior. It tracks fire pretty well, though the framerate leaves something to be desired but there isn't much I can do as that's mostly limitations with computational power and data transfer.
 ```ruby
 import cv2, json, requests, os
