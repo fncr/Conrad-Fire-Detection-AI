@@ -20,6 +20,7 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 Below milestones take place in the second session of BlueStamp. This session revolved around applying the raspberry pi to a larger product that could be useful in detecting forest fires early.
 ## Sixth Milestone
 
+```rubyblue
 import cv2, json, requests, os, math
 from twilio.rest import Client
 from gps import *
@@ -30,7 +31,7 @@ from gps import *
 #     link = "https://www.google.com/maps/place/" + str(lat) + "" + str(lon)
 #     return link
 
-```blackboard
+
 def convertCoords(lon_raw_coord, lat_raw_coord):
     lon_axis = "E"
     lat_axis = "N"
