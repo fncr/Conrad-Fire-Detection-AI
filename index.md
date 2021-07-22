@@ -14,7 +14,7 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 * [Getting Tensorflow on the Raspberry Pi](https://www.makeuseof.com/tag/image-recognition-tensorflow-raspberry-pi/)
 * [Using TensorFlow Lite on Raspberry Pi, Ended Up Being Outdated](https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588)
 
-![Car Image](https://github.com/fncr/Conrad-Fire-Detection-AI/blob/gh-pages/images/20210721_205316.jpg)
+![Car Image](https://github.com/fncr/Conrad-Fire-Detection-AI/blob/gh-pages/images/20210721_205502.jpg)
 
 # Second Session
 Below milestones take place in the second session of BlueStamp. This session revolved around applying the raspberry pi to a larger product that could be useful in detecting forest fires early.
