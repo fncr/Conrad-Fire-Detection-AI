@@ -5,7 +5,7 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 |:--:|:--:|:--:|:--:|
 | Conrad | Saratoga High School | Electrical(?) Engineering | Incoming Senior
 
-![Headstone Image](https://github.com/fncr/ConradWu-Fire-Detection-AI/blob/gh-pages/images/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f596e647458396d6d375a32674350706d476e6e6e35436564315432662d72436348456f4c73735f396d54493845647261717.png)
+![Headstone Image](![Headstone Image](https://github.com/fncr/Conrad-Fire-Detection-AI/blob/gh-pages/images/20210721_205316.jpg)
 
 # Links and Resources
 * [My Github Repo](https://github.com/fncr/Raspi-Fire-Detection)
@@ -13,6 +13,8 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 * [Using and accessing the Raspberry Pi Camera](https://picamera.readthedocs.io/en/release-1.13/recipes1.html)
 * [Getting Tensorflow on the Raspberry Pi](https://www.makeuseof.com/tag/image-recognition-tensorflow-raspberry-pi/)
 * [Using TensorFlow Lite on Raspberry Pi, Ended Up Being Outdated](https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588)
+
+![Car Image](https://github.com/fncr/Conrad-Fire-Detection-AI/blob/gh-pages/images/20210721_205316.jpg)
 
 # Second Session
 Below milestones take place in the second session of BlueStamp. This session revolved around applying the raspberry pi to a larger product that could be useful in detecting forest fires early.
@@ -84,6 +86,8 @@ main()
 ## [Second Milestone](https://www.youtube.com/watch?v=tQt0Xg7fepw)
 I've been able to write some python programs that take images using the raspberry pi, send images to nanonets, get that image back with an inference with where the fire is in the image, then present an image to the user with a box drawn around where the model thinks the fire is. I started off with just taking 10 pictures and saving them to a directory, then had a different program parse through the directory and feed all of the images to nanonets.
 Now I have a program that combines the taking images and feeding to nanonets. It displays an inference, then takes a picture and gets a response from Nanonets, then right before displaying the image it kills the previous one, thus making a sort of pseudo-video
+
+![Starting Model](https://github.com/fncr/ConradWu-Fire-Detection-AI/blob/gh-pages/images/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f596e647458396d6d375a32674350706d476e6e6e35436564315432662d72436348456f4c73735f396d54493845647261717.png)
 
 ![Bad NanoNets](https://github.com/fncr/ConradWu-Fire-Detection-AI/blob/gh-pages/images/shimnzo.png)
 
