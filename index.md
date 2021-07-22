@@ -20,7 +20,7 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 Below milestones take place in the second session of BlueStamp. This session revolved around applying the raspberry pi to a larger product that could be useful in detecting forest fires early.
 ## Sixth Milestone
 
-```rubyblue
+```ruby
 import cv2, json, requests, os, math
 from twilio.rest import Client
 from gps import *
