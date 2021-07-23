@@ -3,7 +3,7 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Conrad | Saratoga High School | Electrical(?) Engineering | Incoming Senior
+| Conrad | Saratoga High School | Mechanical Engineering | Incoming Senior
 
 ![Headstone Image](https://user-images.githubusercontent.com/71410837/126831246-0706ab90-a65e-4896-9d8c-08a2a2e549a3.jpg)
 
@@ -14,14 +14,15 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 * [Getting Tensorflow on the Raspberry Pi](https://www.makeuseof.com/tag/image-recognition-tensorflow-raspberry-pi/)
 * [Using TensorFlow Lite on Raspberry Pi, Ended Up Being Outdated](https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588)
 
-![Car Image](https://user-images.githubusercontent.com/71410837/126831192-c8d4cb49-7475-44c4-ad47-6ab2cca802df.jpg)
+![Car Image](https://user-images.githubusercontent.com/71410837/126831640-b82c3128-6599-44e6-8ffd-269b2599c8fd.jpg)
+
 
 # Parts List
 Prototype Part | Drone Parts
 -----|------
-[Raspberry Pi 3](https://www.amazon.com/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BC6WH7V/ref=sr_1_4?dchild=1&keywords=raspberry+pi+3&qid=1626988950&sr=8-4)/[Raspberry Pi Zero](
+[Raspberry Pi 3](https://www.amazon.com/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BC6WH7V/ref=sr_1_4?dchild=1&keywords=raspberry+pi+3&qid=1626988950&sr=8-4)/[Raspberry Pi Zero](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/ref=sr_1_4?dchild=1&keywords=raspberry+pi+zero&qid=1627068555&sr=8-4)
 [Raspberry Pi Camera v1.3](https://www.amazon.com/Camera-Module-Raspberry-Webcam-Megapixel/dp/B07QNSJ32M/ref=sr_1_4?crid=1IPQR33XPSLK4&dchild=1&keywords=pi+camera+v1.3&qid=1626989333&sprefix=pi+camera+v1%2Caps%2C233&sr=8-4) | ----- |
-RC Car | RC Plane
+[RC Car](https://www.amazon.com/BEZGAR-Toy-Grade-Rechargeable-Batteries/dp/B08V58B82B/ref=sr_1_7?dchild=1&keywords=rc+car&qid=1625696108&refinements=p_36%3A-5000&rnid=386491011&sr=8-7) | [RC Plane](https://www.amazon.com/Control-Airplane-Channel-Aircraft-Beginner/dp/B08PCS8GSS/ref=sr_1_2_sspa?dchild=1&keywords=rc+plane&qid=1625518035&sr=8-2-spons&psc=1&smid=A2YBEM5SOQYA92&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUlA1TFVMSU9BWEhIJmVuY3J5cHRlZElkPUEwMTAwMzIzMTRCQTNSUkNDQUdMNSZlbmNyeXB0ZWRBZElkPUEwOTgzMTIyMk9TN0tRSDFWVkhLUiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 [GPS Module](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT/ref=sr_1_3?dchild=1&keywords=gps+module&qid=1626989397&sr=8-3) | ----- |
 
