@@ -16,6 +16,12 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 
 ![Car Image](https://user-images.githubusercontent.com/71410837/126831640-b82c3128-6599-44e6-8ffd-269b2599c8fd.jpg)
 
+
+
+
+
+# Parts List
+
 | **Prototype Part** | **Drone Parts** |
 |:--:|:--:|:--:|:--:|
 | [Raspberry Pi 3](https://www.amazon.com/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BC6WH7V/ref=sr_1_4?dchild=1&keywords=raspberry+pi+3&qid=1626988950&sr=8-4) | [Raspberry Pi Zero](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/ref=sr_1_4?dchild=1&keywords=raspberry+pi+zero&qid=1627068555&sr=8-4)
@@ -24,8 +30,6 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 | [GPS Module](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT/ref=sr_1_3?dchild=1&keywords=gps+module&qid=1626989397&sr=8-3) | -----
 
 
-
-# Parts List
 | **Prototype Part** | **Drone Parts** |
 | :-----: | :-----: |
 | [Raspberry Pi 3](https://www.amazon.com/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BC6WH7V/ref=sr_1_4?dchild=1&keywords=raspberry+pi+3&qid=1626988950&sr=8-4) | [Raspberry Pi Zero](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/ref=sr_1_4?dchild=1&keywords=raspberry+pi+zero&qid=1627068555&sr=8-4)
