@@ -16,6 +16,15 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 
 ![Car Image](https://github.com/fncr/Conrad-Fire-Detection-AI/blob/gh-pages/images/20210721_205502.jpg)
 
+# Parts List
+Prototype Part | Drone Parts
+-----|------
+[Raspberry Pi 3](https://www.amazon.com/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BC6WH7V/ref=sr_1_4?dchild=1&keywords=raspberry+pi+3&qid=1626988950&sr=8-4)/[Raspberry Pi Zero](
+[Raspberry Pi Camera v1.3](https://www.amazon.com/Camera-Module-Raspberry-Webcam-Megapixel/dp/B07QNSJ32M/ref=sr_1_4?crid=1IPQR33XPSLK4&dchild=1&keywords=pi+camera+v1.3&qid=1626989333&sprefix=pi+camera+v1%2Caps%2C233&sr=8-4) | ----- |
+RC Car | 
+[GPS Module](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT/ref=sr_1_3?dchild=1&keywords=gps+module&qid=1626989397&sr=8-3) | ----- |
+
+
 # Second Session
 Below milestones take place in the second session of BlueStamp. This session revolved around applying the raspberry pi to a larger product that could be useful in detecting forest fires early.
 ## Sixth Milestone
