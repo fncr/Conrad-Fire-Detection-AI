@@ -19,7 +19,7 @@ I am working with a raspberry pi that will feed a live video stream into a machi
 
 # Parts List
 | Prototype Part | Drone Parts |
-| -----|------ |
+| :-----: | :-----: |
 | [Raspberry Pi 3](https://www.amazon.com/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BC6WH7V/ref=sr_1_4?dchild=1&keywords=raspberry+pi+3&qid=1626988950&sr=8-4) | [Raspberry Pi Zero](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/ref=sr_1_4?dchild=1&keywords=raspberry+pi+zero&qid=1627068555&sr=8-4) |
 | [Raspberry Pi Camera v1.3](https://www.amazon.com/Camera-Module-Raspberry-Webcam-Megapixel/dp/B07QNSJ32M/ref=sr_1_4?crid=1IPQR33XPSLK4&dchild=1&keywords=pi+camera+v1.3&qid=1626989333&sprefix=pi+camera+v1%2Caps%2C233&sr=8-4) | ----- |
 | [RC Car](https://www.amazon.com/BEZGAR-Toy-Grade-Rechargeable-Batteries/dp/B08V58B82B/ref=sr_1_7?dchild=1&keywords=rc+car&qid=1625696108&refinements=p_36%3A-5000&rnid=386491011&sr=8-7) | [RC Plane](https://www.amazon.com/Control-Airplane-Channel-Aircraft-Beginner/dp/B08PCS8GSS/ref=sr_1_2_sspa?dchild=1&keywords=rc+plane&qid=1625518035&sr=8-2-spons&psc=1&smid=A2YBEM5SOQYA92&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUlA1TFVMSU9BWEhIJmVuY3J5cHRlZElkPUEwMTAwMzIzMTRCQTNSUkNDQUdMNSZlbmNyeXB0ZWRBZElkPUEwOTgzMTIyMk9TN0tRSDFWVkhLUiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) |
