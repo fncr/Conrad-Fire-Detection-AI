@@ -35,7 +35,7 @@ Note: The prototype parts were used throughout this project, not the drone parts
 
 # Second Session
 Below milestones take place in the second session of BlueStamp. This session revolved around applying the raspberry pi to a larger product that could be useful in detecting forest fires early.
-## Sixth Milestone
+## [Sixth Milestone](https://www.youtube.com/watch?v=8in9juslBEk)
 
 ```ruby
 import cv2, json, requests, os, math
@@ -185,7 +185,7 @@ gpsd = gps(mode=WATCH_ENABLE|WATCH_NEWSTYLE)
 main()
 ```
 
-## Fifth Milestone
+## [Fifth Milestone](https://www.youtube.com/watch?v=bMEYn_ISSb8)
 Got text message functional. This includes getting and sending GPS data from the raspberry piand sending an image of the fire to the user. Also has some code to send one text per fire based on the location rather than every frame that the machine detects a fire in.
 
 ## [Fourth Milestone](https://www.youtube.com/watch?v=M1F8t6Ycy2U)
