@@ -256,7 +256,7 @@ Now I have a program that combines the taking images and feeding to nanonets. It
 
 ![Starting Model](https://user-images.githubusercontent.com/71410837/126831423-a1bd3fe3-2cbc-4e6b-9442-2a69a5ceaca2.png)
 
-![Bad NanoNets](https://user-images.githubusercontent.com/71410837/126831464-d361b073-f35b-44f3-a009-d86abed6ae4d.png)
+![Bad NanoNets](https://raw.githubusercontent.com/fncr/Conrad-Fire-Detection-AI/gh-pages/images/sillynanonets.png)
 
 
 ## [First Milestone](https://www.youtube.com/watch?v=HELhTF0Dyzc "First Milestone")
